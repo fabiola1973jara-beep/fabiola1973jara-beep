@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="BANNER_URL_AQUI" alt="Banner de Fabiola Jara" width="100%">
+</p>
 
 # 👋 Hola, soy Fabiola Jara
 
