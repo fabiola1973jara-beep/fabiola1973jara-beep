@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/fabiola1973jara-beep/fabiola1973jara-beep/blob/main/imagen.jpeg" 
+  <img src="https://github.com/fabiola1973jara-beep/fabiola1973jara-beep/blob/main/Copilot_20260706_192504.png" 
        alt="Banner de Fabiola Jara" width="100%">
 </p>
+
 
 
 # 👋 Hola, soy Fabiola Jara
