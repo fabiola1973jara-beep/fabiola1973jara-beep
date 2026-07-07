@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="BANNER_URL_AQUI" alt="Banner de Fabiola Jara" width="100%">
+  <img src="https://github.com/fabiola1973jara-beep/fabiola1973jara-beep/blob/main/imagen.jpeg" 
+       alt="Banner de Fabiola Jara" width="100%">
 </p>
+
 
 # 👋 Hola, soy Fabiola Jara
 
